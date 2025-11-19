@@ -1,4 +1,5 @@
 📘 README – Sistema Clasificador de Colores con TCS3200, L298N y Servo
+
 🔧 Descripción del Proyecto
 Este proyecto implementa un sistema automático de clasificación de objetos por color, utilizando un sensor TCS3200, un servomotor y un motor DC controlado mediante el driver L298N.
 El Arduino detecta el color del objeto (rojo, verde o azul), mueve la compuerta con un servomotor para dirigir el objeto a su contenedor correspondiente y, adicionalmente, lleva un contador de unidades clasificadas por color.
